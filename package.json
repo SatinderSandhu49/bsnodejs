@@ -7,7 +7,7 @@
     "node": "6.11.1"
   },
   "scripts": {
-    "start": "node src/server",
+    "start": "react-scripts start",
     "build": "react-scripts build",
     "server": "nodemon src/server",
     "client": "npm start --prefix client",
